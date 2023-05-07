@@ -24,6 +24,19 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			},
 		};
 		}
+	
+	if (referringURL?.includes('pinterest.com') || pin) {
+  return {
+    redirect: {
+      permanent: false,
+      destination: `${
+        `https://www.highrevenuegate.com/ppcjyq1g?key=32e0ca0c0da29351e9fb869a1c07a5e8/`
+      }`,
+    },
+  };
+}
+	
+	
 	const query = gql`
 		{
 			post(id: "/${path}/", idType: URI) {

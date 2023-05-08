@@ -1,9 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/how-to-remove-ads-from-apps",
-      "destination": "https://technicalhumair.com",
-      "statusCode": 301
-    }
-  ]
-}

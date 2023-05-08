@@ -42,12 +42,12 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://newstick.us"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>News &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Here you can find showviz news and other national and internation news
             </p>
           </a>
         </div>

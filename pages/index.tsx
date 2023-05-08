@@ -23,22 +23,22 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://alcashzone.com" className={styles.card}>
+          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Here you can find how to earn money from Adsterra .</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
+            <h2>Master In AdSense Approval &rarr;</h2>
+            <p>Here you can find the of how you become master in AdSense approval!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://alcashzone.com/category/blogging/"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Blogging &rarr;</h2>
+            <p>Here you can find the source to become master in blogging</p>
           </a>
 
           <a

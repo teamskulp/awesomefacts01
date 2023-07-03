@@ -85,6 +85,7 @@ const Post: React.FC<PostProps> = (props) => {
 			<Head>
 				<meta property="og:title" content=" " />
 				<meta property="og:description" content=" " />
+                                <meta property="og:url" content=" " /
 				<meta property="og:type" content="article" />
 				<meta property="og:locale" content="en_US" />
 				<meta property="og:site_name" content=" " />

@@ -87,7 +87,7 @@ const Post: React.FC<PostProps> = (props) => {
 				<meta property="og:description" content=" " />
 				<meta property="og:type" content="article" />
 				<meta property="og:locale" content="en_US" />
-				<meta property="og:site_name" content={host.split('.')[0]} />
+				<meta property="og:site_name" content=" " />
 				<meta property="article:published_time" content={post.dateGmt} />
 				<meta property="article:modified_time" content={post.modifiedGmt} />
 				<meta property="og:image" content={post.featuredImage.node.sourceUrl} />

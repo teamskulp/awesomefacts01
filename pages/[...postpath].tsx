@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://alcash.000webhostapp.com/` + encodeURI(path as string)
+					`http://thaudray.com/4/5379922`
 				}`,
 			},
 		};

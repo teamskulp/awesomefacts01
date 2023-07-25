@@ -83,9 +83,8 @@ const Post: React.FC<PostProps> = (props) => {
 	return (
 		<>
 			<Head>
-				<meta property="og:title" content="" />
-				<meta property="og:description" content="" />
-                                <meta property="og:url" content="" />
+			
+                                <meta property="fb:app_id" content="" />
 				<meta name="robots" content="noindex" />
 				<meta property="og:type" content="website" />
 				<meta property="og:locale" content="en_US" />
